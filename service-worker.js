@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AbhishekDikshit69/React-Colors-App/precache-manifest.2bbefea390bac97c32602f5a41716b10.js"
+  "/React-Colors-App/precache-manifest.8984e62df275a6b03015d5d9eb93a0dc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/AbhishekDikshit69/React-Colors-App/index.html", {
+workbox.routing.registerNavigationRoute("/React-Colors-App/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
