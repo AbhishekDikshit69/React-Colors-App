@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AbhishekDikshit69/React-Colors-App/precache-manifest.0287104f6c152d1a26bb5787d9bdd415.js"
+  "/AbhishekDikshit69/React-Colors-App/precache-manifest.2bbefea390bac97c32602f5a41716b10.js"
 );
 
 workbox.clientsClaim();
